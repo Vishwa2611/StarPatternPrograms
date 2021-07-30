@@ -1,2 +1,2 @@
 # StarPatternPrograms
-Basic star parttern program in Java 
+Basic star pattern programs in Java or Similar languages
