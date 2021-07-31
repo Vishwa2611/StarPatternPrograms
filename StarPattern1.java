@@ -5,10 +5,10 @@ public class StarPattern1 {
     public static void main(String[] args) {
 
         int n = 30;
-        int i= 0;
+      
         int mid = n / 2;
 
-        for(i = 1 ; i <= n ; i++){
+        for(int i = 1 ; i <= n ; i++){
 
             boolean midCheck =  i <= mid ;
 
